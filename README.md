@@ -1,4 +1,3 @@
-# CSC2510
 <h1>CSC 2510</h1>
 <p>DevOps class at TTU</p>
 <h2>About Filip Bynum</h2>

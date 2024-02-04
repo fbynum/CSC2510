@@ -1,1 +1,2 @@
+Alice likes cats.
 You may put whatever contents you like into this file.
